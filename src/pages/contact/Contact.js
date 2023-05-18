@@ -67,11 +67,11 @@ const Contact = () => {
               </span>
               <span>
                 <FaEnvelope />
-                <p>Support@invent.com</p>
+                <p>Support@stock-taker.com</p>
               </span>
               <span>
                 <GoLocation />
-                <p>Abuja, Nigeria</p>
+                <p>birmingham, united kingdom</p>
               </span>
               <span>
                 <FaTwitter />
